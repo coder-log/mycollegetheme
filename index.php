@@ -8,5 +8,5 @@ while(have_posts() ) {
     <?php the_content(); ?>
     <hr>
 <?php }
-
+get_footer();
 ?>
