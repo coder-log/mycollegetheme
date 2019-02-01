@@ -5,5 +5,3 @@
 </head>
 <body>
     <h1>My College</h1>
-</body>
-</html>
